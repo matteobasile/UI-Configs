@@ -1,5 +1,5 @@
 {
     "mf": "Datasources List",
-    "api": "https://dme-api.waterverse.opsi.lecce.it/api",
+    "api": "https://dme-api-waterverse.opsi.lecce.it/api",
     "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }

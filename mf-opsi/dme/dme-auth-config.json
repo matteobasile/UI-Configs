@@ -1,6 +1,6 @@
 {
    "mf":"Auth",
-   "api":"https://dme-api.waterverse.opsi.lecce.it/api",
+   "api":"https://dme-apiwaterverse.opsi.lecce.it/api",
    "keycloak":{
       "url":"https://auth-waterverse.opsi.lecce.it/auth",
       "clientId":"dme-v2-app",
