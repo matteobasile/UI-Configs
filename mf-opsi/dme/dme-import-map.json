@@ -12,7 +12,7 @@
     "@digital-enabler/mashups-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-list-main/demf-mashups-list-main/js/app.js",
     "@digital-enabler/mashups-editor": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-editor-main/demf-mashups-editor-main/js/app.js",
     "@digital-enabler/mashups-editor-appbar": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-editor-appbar-main/demf-mashups-editor-appbar-main/js/app.js",
-    "@digital-enabler/share-form": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-share-form-main/demf-demf-share-form-main/js/app.js",
+    "@digital-enabler/share-form": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-share-form-main/demf-share-form-main/js/app.js",
     "@digital-enabler/dme-datasources-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-datasources-list-main/demf-datasources-list-main/js/app.js",
     "@digital-enabler/dme-datasource-details": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-datasource-details-main/demf-datasource-details-main/js/app.js",
     "@digital-enabler/dme-flows-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-flows-list-main/demf-flows-list-main/js/app.js",
