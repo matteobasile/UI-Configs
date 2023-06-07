@@ -7,7 +7,7 @@
     "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@2.6.5/dist/vuetify.min.js",
     "@digital-enabler/sidebar": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-sidebar-main/demf-sidebar-main/js/app.js",
     "@digital-enabler/footer": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-footer-main/demf-footer-main/js/app.js",
-    "@digital-enabler/auth": "https://dme-comps-waterverse.opsi.lecce.it/dist-auth-main-volume/auth-main-volume/js/app.js",
+    "@digital-enabler/auth": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-auth-main/demf-auth-main/js/app.js",
     "@digital-enabler/demf-dme-event-handler": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-event-handler-main/demf-event-handler-main/js/app.js",
     "@digital-enabler/mashups-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-list-main/demf-mashups-list-main/js/app.js",
     "@digital-enabler/mashups-editor": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-editor-main/demf-mashups-editor-main/js/app.js",
