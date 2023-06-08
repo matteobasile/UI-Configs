@@ -2,7 +2,7 @@
    "mf":"Auth",
    "api":"http://localhost:8083/api", 
    "keycloak":{
-      "url":"https://auth-waterverse.opsi.lecce.it/auth",
+      "url":"http://localhost:8080/auth",
       "clientId":"dme-v2-app",
       "enabled":false
    }
