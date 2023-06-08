@@ -1,0 +1,9 @@
+{
+   "mf":"Auth",
+   "api":"http://localhost:8083/api", 
+   "keycloak":{
+      "url":"http://localhost:8080/auth",
+      "clientId":"dme-v2-app",
+      "enabled":false
+   }
+}
