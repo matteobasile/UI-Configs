@@ -1,8 +1,8 @@
 {
   "realm": "waterverse",
   "palette": {
-    "primary": "#003050",
-    "secondary": "#C8004B",
+    "primary": "#0D085C",
+    "secondary": "#3C8CCD",
     "accent": "#A0B1BE",
     "error": "#F44336",
     "info": "#3d8ecc",
