@@ -1,5 +1,5 @@
 {
    "mf": "Mashups List",
-   "api": "http://localhost:8083/api",
+   "api": "https://dme-api-waterverse.opsi.lecce.it/api",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }

@@ -1,5 +1,5 @@
 {
-    "mf": "Flows List",
-    "api": "http://localhost:8083/api",
+    "mf": "Footer",
+    "api": "",
     "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
 }

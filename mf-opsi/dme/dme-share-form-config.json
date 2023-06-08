@@ -1,4 +1,4 @@
 {
     "mf": "Share Form",
-    "api": "https://dme-api-waterverse.opsi.lecce.it/api"
+    "api": "http://localhost:8083/api"
 }

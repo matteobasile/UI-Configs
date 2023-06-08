@@ -1,6 +1,6 @@
 {
    "mf": "Sidebar",
-   "api": "http://localhost:8083/api",
+   "api": "https://dme-api-waterverse.opsi.lecce.it/api",
    "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
    "jsonTools": "https://raw.githubusercontent.com/matteobasile/UI-Configs/main/mf-waterverse/common/services.json",
    "links": [

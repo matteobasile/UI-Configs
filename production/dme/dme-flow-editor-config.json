@@ -1,5 +1,5 @@
 {
     "mf": "Flow Editor",
-    "api": "http://localhost:8083/api",
+    "api": "https://dme-api-waterverse.opsi.lecce.it/api",
     "triggerProxyUrlLayout": "[protocol_current_url]//dme-proxy.[Tenant][domain_current_url]/mashups/[id_flow]"
 }

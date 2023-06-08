@@ -1,0 +1,22 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+    "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js",
+    "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.5.3/dist/vue-router.min.js",
+    "vuetify": "https://cdn.jsdelivr.net/npm/vuetify@2.6.5/dist/vuetify.min.js",
+    "@digital-enabler/sidebar": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-sidebar-main/demf-sidebar-main/js/app.js",
+    "@digital-enabler/footer": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-footer-main/demf-footer-main/js/app.js",
+    "@digital-enabler/auth": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-auth-main/demf-auth-main/js/app.js",
+    "@digital-enabler/demf-dme-event-handler": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-event-handler-main/demf-event-handler-main/js/app.js",
+    "@digital-enabler/mashups-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-list-main/demf-mashups-list-main/js/app.js",
+    "@digital-enabler/mashups-editor": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-editor-main/demf-mashups-editor-main/js/app.js",
+    "@digital-enabler/mashups-editor-appbar": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-mashups-editor-appbar-main/demf-mashups-editor-appbar-main/js/app.js",
+    "@digital-enabler/share-form": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-share-form-main/demf-share-form-main/js/app.js",
+    "@digital-enabler/dme-datasources-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-datasources-list-main/demf-datasources-list-main/js/app.js",
+    "@digital-enabler/dme-datasource-details": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-datasource-details-main/demf-datasource-details-main/js/app.js",
+    "@digital-enabler/dme-flows-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-flows-list-main/demf-flows-list-main/js/app.js",
+    "@digital-enabler/dme-flow-editor": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-flow-editor-main/demf-flow-editor-main/js/app.js",
+    "@digital-enabler/dme-gui": "https://dme-waterverse.opsi.lecce.it/demf-dme-gui.js"
+  }
+}
