@@ -1,7 +1,7 @@
 {
    "mf": "Sidebar",
    "api": "https://dme-api-waterverse.opsi.lecce.it/api",
-   "storageImgs": "https://storage.digital-enabler.eng.it/imgs",
+   "storageImgs": "https://dme-comps-waterverse.opsi.lecce.it/dme-images",
    "jsonTools": "https://raw.githubusercontent.com/matteobasile/UI-Configs/main/mf-waterverse/common/services.json",
    "links": [
       {
@@ -27,7 +27,7 @@
    "keycloak": {
       "enabled": false
    },
-   "logo": "/DataMashupEditor.svg",
-   "miniLogo": "/de-mini.svg",
+   "logo": "/waterverse-full.png",
+   "miniLogo": "/waterverse.png",
    "showServicesMenu": false
 }
