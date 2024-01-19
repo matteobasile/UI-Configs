@@ -17,6 +17,8 @@
     "@digital-enabler/dme-datasource-details": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-datasource-details-main/demf-datasource-details-main/js/app.js",
     "@digital-enabler/dme-flows-list": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-flows-list-main/demf-flows-list-main/js/app.js",
     "@digital-enabler/dme-flow-editor": "https://dme-comps-waterverse.opsi.lecce.it/dist-demf-flow-editor-main/demf-flow-editor-main/js/app.js",
+    "@digital-enabler/demf-custom-operators": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-custom-operators@0.0.2/app.js",
+    "@digital-enabler/demf-custom-operator-details": "https://cdn.jsdelivr.net/npm/@digital-enabler/demf-custom-operator-details@0.0.4/app.js",
     "@digital-enabler/dme-gui": "https://dme-waterverse.opsi.lecce.it/demf-dme-gui.js"
   }
 }
